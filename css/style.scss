@@ -1,0 +1,26 @@
+// variables
+
+$subheader: #281818;
+$subheader2: #181828;
+$spitter: solid 2px #420000;
+$subhpadding: 5px 0px 5px 5px;
+
+
+
+.container {
+
+   // h4{
+   //    background: $subheader2;
+   //    padding: $subhpadding;
+   // }
+
+   h3{
+      background: $subheader2;
+      padding: $subhpadding;
+
+   }
+}
+
+#footer {
+   border-top: $spitter;
+}
